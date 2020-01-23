@@ -1,0 +1,6 @@
+C:\Users\zrf\source\repos\3\Theme3_HomeWork\Theme3_HomeWork\obj\Debug\Theme3_HomeWork.csprojAssemblyReference.cache
+C:\Users\zrf\source\repos\3\Theme3_HomeWork\Theme3_HomeWork\bin\Debug\Theme3_HomeWork.exe.config
+C:\Users\zrf\source\repos\3\Theme3_HomeWork\Theme3_HomeWork\bin\Debug\Theme3_HomeWork.exe
+C:\Users\zrf\source\repos\3\Theme3_HomeWork\Theme3_HomeWork\bin\Debug\Theme3_HomeWork.pdb
+C:\Users\zrf\source\repos\3\Theme3_HomeWork\Theme3_HomeWork\obj\Debug\Theme3_HomeWork.exe
+C:\Users\zrf\source\repos\3\Theme3_HomeWork\Theme3_HomeWork\obj\Debug\Theme3_HomeWork.pdb
